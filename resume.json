@@ -1,4 +1,9 @@
 {
-    "Name": "Padmanaban"
-    "Age": "22"
+    "Name": "Padmanaban",
+    "Age": "22",
+    "Contact info": { 
+        "email": "suriya0078702gmail.com",
+        "Phone": "8072849968",
+        "Address": "417, Arul nagar, urappakam,641014"
+    }
 }
